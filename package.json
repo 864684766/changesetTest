@@ -1,7 +1,7 @@
 {
   "name": "my-test-vue-pro",
   "private": true,
-  "version": "3.0.0",
+  "version": "5.0.5",
   "type": "module",
   "scripts": {
     "dev": "vite",

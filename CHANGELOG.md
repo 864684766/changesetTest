@@ -1,13 +1,13 @@
 # my-test-vue-pro
 
-## 3.0.0
+## 5.0.5
 
-### Major Changes
+### Patch Changes
 
-- 不要故弄玄虚 (major)
+- 1 (patch)
 
-## 2.0.0
+## 5.0.4
 
-### Major Changes
+### Patch Changes
 
-- 22870a9: 我要测试
+- 3 (patch)
