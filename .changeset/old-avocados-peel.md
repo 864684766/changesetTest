@@ -2,4 +2,4 @@
 "my-test-vue-pro": major
 ---
 
-我要测试
+不要故弄玄虚

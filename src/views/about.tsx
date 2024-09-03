@@ -17,7 +17,7 @@ export default {
 
     return () => (
       <div>
-        123123
+        何故弄玄虚
         <h2>{title.value}</h2>
         <p>Count: {count.value}</p>
         <button onClick={increment}>Increment</button>
