@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    // ... 其他选项 ...
+    "moduleResolution": "node",
+    // ... 其他选项 ...
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "jsx": "preserve",
+    "types": ["vite/client", "@vue/runtime-core", "node"],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
+}
