@@ -1,14 +1,16 @@
 {
   "compilerOptions": {
+    "strict": true,
     // ... 其他选项 ...
     "moduleResolution": "node",
+    "module":"CommonJS",
     // ... 其他选项 ...
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "jsx": "preserve",
-    "types": ["vite/client", "@vue/runtime-core", "node"],
+    "types": ["vite/client", "@vue/runtime-core", "node", "vue"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
