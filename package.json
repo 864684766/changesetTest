@@ -1,13 +1,19 @@
 {
   "name": "my-test-vue-pro",
   "private": true,
-  "version": "6.1.0",
+  "version": "8.0.1-beta.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
-    "test": "ts-node --esm ./src/utils/moduleTest/modulec.ts"
+    "test": "ts-node --esm ./src/utils/moduleTest/modulec.ts",
+    "changeset-version": "changeset version",
+    "changeset": "changeset",
+    "changeset-pre-beta": "changeset pre enter beta",
+    "changeset-pre-next": "changeset pre enter next",
+    "changeset-pre-alpha": "changeset pre enter alpha",
+    "changeset-pre-exit": "changeset pre exit"
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",

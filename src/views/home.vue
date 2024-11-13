@@ -31,7 +31,7 @@ const state = reactive({
       },
     },
     {
-      name: "张三",
+      name: "张三李四",
       age: 18,
     },
   ],
