@@ -1,5 +1,14 @@
 # my-test-vue-pro
 
+## 8.0.1
+
+### Patch Changes
+
+- 2321 (patch)
+- 我怎么看出来这个版本呢 (patch)
+- 添加变更的日志 (patch)
+- 1231 (patch)
+
 ## 8.0.1-beta.2
 
 ### Patch Changes
